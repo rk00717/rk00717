@@ -28,7 +28,7 @@ I am Ronik Marghade, currently working as a Software Engineer at the [Enosis Sol
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![C#](https://img.shields.io/badge/-C#-black?style=flat-square&logo=c-sharp)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6-rounded?style=flat-square&logo=css3)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rk00717&count_private=true&show_icons=true&include_all_commits=true)
