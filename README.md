@@ -49,8 +49,8 @@ A Game Design Student from India.
 <p>&nbsp;</p>
 
 ### :fire: My Stats: <img src="https://komarev.com/ghpvc/?username=rk00717&label=Profile%20views&color=a7e972&style=flat-square" alt="rk00717" />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rk00717&show_icons=true&theme=dark&locale=en&layout=compact" alt="rk00717" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rk00717&show_icons=true&theme=dark&locale=en&layout=compact" alt="rk00717" />
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rk00717&count_private=true&show_icons=true&theme=dark&title_color=ffffff&text_color=c9c9c9&bg_color=3d3847&locale=en" alt="rk00717" /></p>
 -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rk00717&theme=dark" alt="rk00717" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rk00717&theme=dark" alt="rk00717" /></p>
