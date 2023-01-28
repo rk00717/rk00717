@@ -26,6 +26,7 @@ A Game Design Student from India.
 - 📄 Know about my experiences [N/A](N/A)
 
 <p>&nbsp;</p>
+
 ### :mailbox_with_mail: Connect with me: 
 <p align="center">
 <a href="https://linkedin.com/in/ronik-marghade-5174131bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronik-marghade-5174131bb" height="30" width="40" /></a>
@@ -38,6 +39,7 @@ A Game Design Student from India.
 </p>
 
 <p>&nbsp;</p>
+
 ### :hammer_and_wrench: Languages and Tools:
 <div>
 <p align="center"> 
@@ -45,6 +47,7 @@ A Game Design Student from India.
 </div>
 
 <p>&nbsp;</p>
+
 ### :fire: My Stats: <img src="https://komarev.com/ghpvc/?username=rk00717&label=Profile%20views&color=a7e972&style=flat-square" alt="rk00717" />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rk00717&show_icons=true&theme=dark&locale=en&layout=compact" alt="rk00717" /></p>
 <!--
