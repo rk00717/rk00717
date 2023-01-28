@@ -1,5 +1,5 @@
-<div id="header" align="center">
- <img src="https://user-images.githubusercontent.com/58892434/215260585-2b6e5c71-d597-4b57-ad1a-5e2b09849834.png" width="100%" height="100%">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/58892434/215260585-2b6e5c71-d597-4b57-ad1a-5e2b09849834.png" width="100%" height="100%">
 </div>
 
 <h1 align="center">Hi there!!! 👋</h1>
