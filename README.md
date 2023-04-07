@@ -13,7 +13,7 @@
 
 ### :man_technologist: About Me:
 
-A Game Design Student from India. Working as a Unity Developer at @ studios.
+A Game Design Student from India. Working as a Unity Developer at "@ studios".
 
 - 🌱 I’m currently learning **Unreal and Web Development**
 
