@@ -36,7 +36,7 @@ A Game Design Student from India. Working as a Unity Developer at @ studios.
 <!-- 
 <a href="https://www.behance.net/rk00717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rk00717" height="30" width="40" /></a>
 -->
-<a href="https://www.youtube.com/c/ronikmarghade4849" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rk00717" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCzob-b9iR9N9h-jUq9Y_96w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rk00717" height="30" width="40" /></a>
  <!--
 <a href="https://www.hackerrank.com/rk00717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rk00717" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rk00717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rk00717" height="30" width="40" /></a>
