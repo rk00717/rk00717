@@ -13,13 +13,13 @@
 
 ### :man_technologist: About Me:
 
-A Game Design Student from India. Working as a Unity Developer at "@ studios".
+A Game Design Student from India. Working as a Freelancer as Unity Developer.
 
-- 🌱 I’m currently learning **Unreal and Web Development**
+- 🌱 I’m currently learning **Unreal and Web Development** and focusing more on polishing my skills.
 
 - 👨‍💻 All of my projects Showcase are available at [Check Here...](https://www.youtube.com/channel/UCzob-b9iR9N9h-jUq9Y_96w)
 
-- 💬 Ask me about **Unity or C#**
+- 💬 Ask me about **Unity or C#** or **any other language**
 
 - 📫 How to reach me **ronikmarghade@gmail.com**
 
