@@ -15,7 +15,7 @@
 
 A Game Design Student from India. Currently Freelancing as Unity Developer.
 
-- 🌱 I’m currently learning **Unreal and Web Development** and focusing more on polishing my skills.
+- 🌱 I’m currently learning **Unreal and Web Development** and focusing more on refining my skills.
 
 - 👨‍💻 All of my projects Showcase are available at [Check Here...](https://www.youtube.com/channel/UCzob-b9iR9N9h-jUq9Y_96w)
 
