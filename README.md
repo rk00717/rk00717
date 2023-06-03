@@ -13,7 +13,7 @@
 
 ### :man_technologist: About Me:
 
-A Game Design Student from India. Working as a Freelancer as Unity Developer.
+A Game Design Student from India. Currently Freelancing as Unity Developer.
 
 - 🌱 I’m currently learning **Unreal and Web Development** and focusing more on polishing my skills.
 
