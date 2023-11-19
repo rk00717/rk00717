@@ -13,11 +13,11 @@
 
 ### :man_technologist: About Me:
 
-A Game Design Student from India. Currently working as Unity Engineer at Sunbase Data.
+A Game Design Student from India. Currently working as Unity Engineer at SunbaseData.
 
 - 🌱 I’m currently learning **Artificial Intelligence(AI) and Web Development** and focusing more on refining my skills.
 
-- 👨‍💻 All of my projects Showcase are available at [Check Here...](https://www.youtube.com/channel/UCzob-b9iR9N9h-jUq9Y_96w)
+- 👨‍💻 All of my projects Showcase are available at [Here...](https://www.youtube.com/channel/UCzob-b9iR9N9h-jUq9Y_96w)
 
 - 💬 Ask me about **Unity or Unreal** or **any programming language**
 
