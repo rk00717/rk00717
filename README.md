@@ -13,7 +13,7 @@
 
 ### :man_technologist: About Me:
 
-A Game Design Student from India. Currently working as Unity Engineer at SunbaseData.
+Experienced professional specializing in prototyping advancement, and user interface/experience (UI/ UX) design of video games. A motivated Game Developer recognized for effectively communicating, debugging, and optimizing both new and established projects to deliver seamless and engaging user experiences.
 
 - 🌱 I’m currently learning **Artificial Intelligence(AI) and Web Development** and focusing more on refining my skills.
 
