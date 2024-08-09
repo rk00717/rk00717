@@ -13,7 +13,8 @@
 
 ### :man_technologist: About Me:
 
-Experienced professional specializing in prototyping advancement, and user interface/experience (UI/ UX) design of video games. A motivated Game Developer recognized for effectively communicating, debugging, and optimizing both new and established projects to deliver seamless and engaging user experiences.
+<!-- Experienced professional specializing in prototyping advancement, and user interface/experience (UI/ UX) design of video games. A motivated Game Developer recognized for effectively communicating, debugging, and optimizing both new and established projects to deliver seamless and engaging user experiences. -->
+I am a passionate game developer, creating unique and immersive experiences for players. My love for gaming drives me to constantly improve and innovate in this ever-evolving industry.
 
 - 🌱 I’m currently learning **Artificial Intelligence(AI) and Web Development** and focusing more on refining my skills.
 
