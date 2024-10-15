@@ -6,7 +6,7 @@
 
 ### :man_technologist: About Me:
 I am a passionate game developer, creating unique and immersive experiences for players. My love for gaming drives me to constantly improve and innovate in this ever-evolving industry.
-- 🌱 I’m currently learning **Artificial Intelligence(AI) and Web Development** and focusing more on refining my skills.
+- 🌱 I’m currently focusing more on refining my skills.
 - 👨‍💻 All of my projects Showcase are available at [here...](https://www.youtube.com/channel/UCzob-b9iR9N9h-jUq9Y_96w)
 - 💬 Ask me about **Unity or Unreal** or **any programming language**
 - 📫 How to reach me **ronikmarghade@gmail.com**
