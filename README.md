@@ -47,7 +47,7 @@ alt="HackerRank" height="30" width="30" /></a>&nbsp;
 
 ### :hammer_and_wrench: Languages and Tools:
 <div>
-<p align="left"> 
+<p align="center"> 
 <img 
 src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" 
 alt="Unity" width="40" height="40" />&nbsp;
