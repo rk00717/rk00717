@@ -1,92 +1,101 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/58892434/215260585-2b6e5c71-d597-4b57-ad1a-5e2b09849834.png" width="100%" height="100%">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c9933a&height=120&section=header&text=RONIK%20MARGHADE&fontSize=42&fontFamily=georgia&fontColor=f0e8d5&animation=fadeIn&fontAlignY=38&desc=Between%20imagination%20and%20reality%20%E2%80%94%20I%20make%20the%20bridge.&descAlignY=60&descSize=14&descColor=8a8a72" width="100%"/>
+
 </div>
 
-<h1 align="center">Hi there!!! 👋</h1>
+<div align="center">
 
-### :man_technologist: About Me:
-I am a passionate game developer, creating unique and immersive experiences for players. My love for gaming drives me to constantly improve and innovate in this ever-evolving industry.
-- 🌱 I’m currently focusing more on refining my skills.
-- 👨‍💻 All of my projects Showcase are available at [here...](https://www.youtube.com/channel/UCzob-b9iR9N9h-jUq9Y_96w)
-- 💬 Ask me about **Unity or Unreal** or **any programming language**
-- 📫 How to reach me **ronikmarghade@gmail.com**
-<p>&nbsp;</p>
+[![Portfolio](https://img.shields.io/badge/%5B_VISIT_PORTFOLIO_%5D-c9933a?style=flat-square&logo=firefox&logoColor=0a0c08&labelColor=0a0c08)](https://ronik.dev)
+&nbsp;
+[![Email](https://img.shields.io/badge/%5B_OPEN_CHANNEL_%5D-0a0c08?style=flat-square&logo=gmail&logoColor=c9933a&labelColor=0a0c08)](mailto:ronikmarghade@gmail.com)
 
-### :mailbox_with_mail: Connect with me: 
-<p align="center">
-<a href="https://www.youtube.com/@ronikmarghade4849" target="blank">
-<img align="center" 
-src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-256.png" 
-alt="Youtube" height="30" width="30" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/rk00717/" target="blank">
-<img align="center" 
-src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/LinkedIn-512.png" 
-alt="LinkedIn" height="30" width="30" /></a>&nbsp;
-<a href="https://x.com/MarghadeRonik" target="blank">
-<img align="center" 
-src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Twitter-512.png" 
-alt="Instagram" height="30" width="30" /></a>&nbsp;
-<a href="https://instagram.com/rk00717" target="blank">
-<img align="center" 
-src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png" 
-alt="Instagram" height="30" width="30" /></a>&nbsp;
-<a href="https://leetcode.com/u/rk00717/" target="blank">
-<img align="center" 
-src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp&w=256" 
-alt="LeetCode" height="30" width="30" /></a>&nbsp;
-<a href="https://www.hackerrank.com/profile/rk00717" target="blank">
-<img align="center" 
-src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" 
-alt="HackerRank" height="30" width="30" /></a>&nbsp;
-<a href="https://buymeacoffee.com/rk00717" target="blank">
-<img align="center" 
-src="https://cdn3.iconfinder.com/data/icons/free-mix/128/business_office_seo_finance_work_coffee_pause_management-09-2-512.png" 
-alt="HackerRank" height="30" width="30" /></a>&nbsp;
-</p>
-<p>&nbsp;</p>
+`AMRAVATI, MAHARASHTRA, INDIA`
 
-### :hammer_and_wrench: Languages and Tools:
-<div>
-<p align="center"> 
-<img 
-src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" 
-alt="Unity" width="40" height="40" />&nbsp;
-<img 
-src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unreal_Engine.png" 
-alt="Unreal" width="40" height="40" />&nbsp;
-<img 
-src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" 
-alt="Figma" width="40" height="40" />&nbsp;
-<img 
-src="https://cdn3.iconfinder.com/data/icons/social-media-pack-12/512/Notion-512.png" 
-alt="Notion" width="40" height="40" />&nbsp;
-<img 
-src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Blender.png" 
-alt="Blender" width="40" height="40" />&nbsp;
-<img 
-src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/23_Photoshop_Adobe_logo_logos-256.png" 
-alt="Photoshop" width="40" height="40" />&nbsp;
-<img 
-src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" 
-alt="C-Sharp" width="40" height="40" />&nbsp;
-<img 
-src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" 
-alt="Python" width="40" height="40" />&nbsp;
-<img 
-src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/96-html5-256.png" 
-alt="HTML" width="40" height="40" />&nbsp;
-<img 
-src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" 
-alt="CSS" width="40" height="40" />&nbsp;
-<img 
-src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-256.png" 
-alt="JS" width="40" height="40" />&nbsp;
-<img 
-src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" 
-alt="Git" width="40" height="40" />&nbsp;
-<img 
-src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/205_Markdown_logo_logos-512.png" 
-alt="Markdown" width="40" height="40" />&nbsp;
-</p>
-</p>
+</div>
+
+---
+
+## `// ABOUT`
+
+Game developer with **3+ years** of professional experience — shipping across Android, iOS, PC, Web, and VR. Hyper-casual titles, networked multiplayer apps, VR experiences, and everything in between.
+
+My goal is always to build systems that are as **robust as they are readable**. Fluent in C#, JS, and Python — and I pride myself on adapting quickly to new languages and technical requirements.
+
+| TOKEN | VALUE |
+|---|---|
+| `CURRENT_ROLE` | Lead Game Developer @ Blood Nexus Studio |
+| `EXPERIENCE` | 3 years 2 months |
+| `PROJECTS_SHIPPED` | 47+ |
+| `CLIENTS_&_STUDIOS` | 8+ professional |
+| `ENGINE` | Unity · Unreal |
+| `LANGUAGES` | C# · JS · Python · CSS · HTML |
+| `PLATFORMS` | Android · iOS · PC · Web · VR |
+
+---
+
+## `// STACK + XP`
+
+**Engines**
+
+![Unity](https://img.shields.io/badge/Unity-0a0c08?style=flat-square&logo=unity&logoColor=c9933a)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0a0c08?style=flat-square&logo=unrealengine&logoColor=c9933a)
+![pygame](https://img.shields.io/badge/pygame-0a0c08?style=flat-square&logo=python&logoColor=c9933a)
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-0a0c08?style=flat-square&logo=csharp&logoColor=c9933a)
+![Python](https://img.shields.io/badge/Python-0a0c08?style=flat-square&logo=python&logoColor=c9933a)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0c08?style=flat-square&logo=javascript&logoColor=c9933a)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0c08?style=flat-square&logo=typescript&logoColor=4a9e8e)
+![HTML5](https://img.shields.io/badge/HTML5-0a0c08?style=flat-square&logo=html5&logoColor=c9933a)
+![CSS3](https://img.shields.io/badge/CSS3-0a0c08?style=flat-square&logo=css3&logoColor=c9933a)
+
+**Specialization**
+
+![Hyper-Casual](https://img.shields.io/badge/Hyper--Casual-0a0c08?style=flat-square&logoColor=8a8a72)
+![Platformer](https://img.shields.io/badge/Platformer-0a0c08?style=flat-square&logoColor=8a8a72)
+![Procedural Gen](https://img.shields.io/badge/Procedural_Gen-0a0c08?style=flat-square&logoColor=8a8a72)
+![Networking](https://img.shields.io/badge/Networking-0a0c08?style=flat-square&logoColor=8a8a72)
+![VR](https://img.shields.io/badge/VR-0a0c08?style=flat-square&logo=meta&logoColor=4a9e8e)
+![MVC](https://img.shields.io/badge/MVC_Architecture-0a0c08?style=flat-square&logoColor=8a8a72)
+
+**Web**
+
+![Next.js](https://img.shields.io/badge/Next.js-0a0c08?style=flat-square&logo=nextdotjs&logoColor=f0e8d5)
+![React](https://img.shields.io/badge/React-0a0c08?style=flat-square&logo=react&logoColor=4a9e8e)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0c08?style=flat-square&logo=typescript&logoColor=4a9e8e)
+![Tailwind](https://img.shields.io/badge/Tailwind-0a0c08?style=flat-square&logo=tailwindcss&logoColor=4a9e8e)
+
+**Tools & Design**
+
+![Git](https://img.shields.io/badge/Git-0a0c08?style=flat-square&logo=git&logoColor=8a8a72)
+![GitHub](https://img.shields.io/badge/GitHub-0a0c08?style=flat-square&logo=github&logoColor=8a8a72)
+![Figma](https://img.shields.io/badge/Figma-0a0c08?style=flat-square&logo=figma&logoColor=8a8a72)
+![Blender](https://img.shields.io/badge/Blender-0a0c08?style=flat-square&logo=blender&logoColor=8a8a72)
+![Photoshop](https://img.shields.io/badge/Photoshop-0a0c08?style=flat-square&logo=adobephotoshop&logoColor=8a8a72)
+![Substance Painter](https://img.shields.io/badge/Substance_Painter-0a0c08?style=flat-square&logo=adobe&logoColor=8a8a72)
+![ZBrush](https://img.shields.io/badge/ZBrush-0a0c08?style=flat-square&logoColor=8a8a72)
+![Maya](https://img.shields.io/badge/Maya-0a0c08?style=flat-square&logo=autodesk&logoColor=8a8a72)
+
+---
+
+## `// CONNECT`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0c08?style=for-the-badge&logo=linkedin&logoColor=c9933a)](https://www.linkedin.com/in/rk00717)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0c08?style=for-the-badge&logo=github&logoColor=c9933a)](https://github.com/rk00717)
+[![itch.io](https://img.shields.io/badge/itch.io-0a0c08?style=for-the-badge&logo=itchdotio&logoColor=c9933a)](https://rk00717.itch.io)
+[![Play Store](https://img.shields.io/badge/Play_Store-0a0c08?style=for-the-badge&logo=googleplay&logoColor=4a9e8e)](https://play.google.com/store/apps/dev?id=6840765664290153241)
+[![ArtStation](https://img.shields.io/badge/ArtStation-0a0c08?style=for-the-badge&logo=artstation&logoColor=4a9e8e)](https://rk00717.artstation.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c9933a&height=80&section=footer&text=%E2%97%8F%20SYSTEM%20ONLINE%20%C2%B7%20BUILD%20V2.0.0%20%C2%B7%20ronik.dev&fontSize=12&fontFamily=courier&fontColor=0a0c08&animation=fadeIn" width="100%"/>
+
 </div>
