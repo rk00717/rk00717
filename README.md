@@ -22,16 +22,6 @@ Game developer with **3+ years** of professional experience — shipping across 
 
 My goal is always to build systems that are as **robust as they are readable**. Fluent in C#, JS, and Python — and I pride myself on adapting quickly to new languages and technical requirements.
 
-| TOKEN | VALUE |
-|---|---|
-| `CURRENT_ROLE` | Lead Game Developer @ Blood Nexus Studio |
-| `EXPERIENCE` | 3 years 2 months |
-| `PROJECTS_SHIPPED` | 47+ |
-| `CLIENTS_&_STUDIOS` | 8+ professional |
-| `ENGINE` | Unity · Unreal |
-| `LANGUAGES` | C# · JS · Python · CSS · HTML |
-| `PLATFORMS` | Android · iOS · PC · Web · VR |
-
 ---
 
 ## `// STACK + XP`
