@@ -86,6 +86,6 @@ My goal is always to build systems that are as **robust as they are readable**. 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c9933a&height=80&section=footer&text=%E2%97%8F%20SYSTEM%20ONLINE%20%C2%B7%20BUILD%20V2.0.0%20%C2%B7%20ronik.dev&fontSize=12&fontFamily=courier&fontColor=f0e8d5&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c9933a&height=80&section=footer&text=%E2%97%8F%20ronik.dev&fontSize=12&fontFamily=courier&fontColor=f0e8d5&animation=fadeIn" width="100%"/>
 
 </div>
