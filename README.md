@@ -30,7 +30,7 @@ My goal is always to build systems that are as **robust as they are readable**. 
 
 ![Unity](https://img.shields.io/badge/Unity-0a0c08?style=flat-square&logo=unity&logoColor=c9933a)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0a0c08?style=flat-square&logo=unrealengine&logoColor=c9933a)
-![pygame](https://img.shields.io/badge/pygame-0a0c08?style=flat-square&logo=python&logoColor=c9933a)
+<!-- ![pygame](https://img.shields.io/badge/pygame-0a0c08?style=flat-square&logo=python&logoColor=c9933a) -->
 
 **Languages**
 
