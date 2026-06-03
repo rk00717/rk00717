@@ -10,7 +10,7 @@
 &nbsp;
 [![Email](https://img.shields.io/badge/%5B_OPEN_CHANNEL_%5D-0a0c08?style=flat-square&logo=gmail&logoColor=c9933a&labelColor=0a0c08)](mailto:ronikmarghade@gmail.com)
 
-`AMRAVATI, MAHARASHTRA, INDIA`
+`21.0036° N, 78.2529° E`
 
 </div>
 
