@@ -24,22 +24,37 @@ My goal is always to build systems that are as **robust as they are readable**. 
 
 ---
 
+## `// RKODE ECOSYSTEM`
+
+Open-source Unity editor tooling built for real production workflows.
+
+| Package | Full Name | What It Does | Status |
+| ------- | --------- | ------------ | ------ |
+| [`com.rkode.utils`](https://github.com/rk00717/com.rkode.utils) | RKode Utility | Foundation package — Singleton, StateMachine, ObjectPool, SceneLoader, SaveDataHelper and more | v0.3.0 · OpenUPM |
+| [`com.rkode.vero`](https://github.com/rk00717/com.rkode.vero) | Version Extension Release Optimizer | Build versioning tool — enforces release discipline, auto-increments patch, generates filenames, remembers build paths | v0.1.0-alpha |
+| [`com.rkode.glad`](https://github.com/rk00717/com.rkode.glad) | Grid Layer Accelerated Drafter | Level editor — paint prefabs on a grid or generate levels from 2D textures with plugin architecture | v0.1.0-alpha |
+| [`com.rkode.drip`](https://github.com/rk00717/com.rkode.drip) | Distributed Random Instance Placer | Placement toolkit — grid and Bezier curve placement, randomization, surface alignment, heatmap debug | v0.1.0-alpha |
+
+All packages require Unity 2021.3+. Install via Git URL or OpenUPM (`com.rkode` scope).
+
+---
+
 ## `// STACK + XP`
 
 **Engines**
 
-![Unity](https://img.shields.io/badge/Unity-0a0c08?style=flat-square&logo=unity&logoColor=c9933a)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0a0c08?style=flat-square&logo=unrealengine&logoColor=c9933a)
+[![Unity](https://img.shields.io/badge/Unity-0a0c08?style=flat-square&logo=unity&logoColor=c99336)](https://unity.com) 
+[![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0a0c08?style=flat-square&logo=unrealengine&logoColor=c99336)](https://unrealengine.com)
 <!-- ![pygame](https://img.shields.io/badge/pygame-0a0c08?style=flat-square&logo=python&logoColor=c9933a) -->
 
 **Languages**
 
-![C#](https://img.shields.io/badge/C%23-0a0c08?style=flat-square&logo=csharp&logoColor=c9933a)
-![Python](https://img.shields.io/badge/Python-0a0c08?style=flat-square&logo=python&logoColor=c9933a)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0c08?style=flat-square&logo=javascript&logoColor=c9933a)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0c08?style=flat-square&logo=typescript&logoColor=4a9e8e)
-![HTML5](https://img.shields.io/badge/HTML5-0a0c08?style=flat-square&logo=html5&logoColor=c9933a)
-![CSS3](https://img.shields.io/badge/CSS3-0a0c08?style=flat-square&logo=css3&logoColor=c9933a)
+[![C#](https://img.shields.io/badge/C%23-0a0c08?style=flat-square&logo=csharp&logoColor=c99336)](https://docs.microsoft.com/dotnet/csharp/) 
+[![Python](https://img.shields.io/badge/Python-0a0c08?style=flat-square&logo=python&logoColor=c99336)](https://python.org) 
+[![JavaScript](https://img.shields.io/badge/JavaScript-0a0c08?style=flat-square&logo=javascript&logoColor=c99336)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![TypeScript](https://img.shields.io/badge/TypeScript-0a0c08?style=flat-square&logo=typescript&logoColor=4a9e8e)](https://typescriptlang.org) 
+[![HTML5](https://img.shields.io/badge/HTML5-0a0c08?style=flat-square&logo=html5&logoColor=c99336)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+[![CSS3](https://img.shields.io/badge/CSS3-0a0c08?style=flat-square&logo=css3&logoColor=c99336)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 **Specialization**
 
@@ -52,21 +67,21 @@ My goal is always to build systems that are as **robust as they are readable**. 
 
 **Web**
 
-![Next.js](https://img.shields.io/badge/Next.js-0a0c08?style=flat-square&logo=nextdotjs&logoColor=f0e8d5)
-![React](https://img.shields.io/badge/React-0a0c08?style=flat-square&logo=react&logoColor=4a9e8e)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0c08?style=flat-square&logo=typescript&logoColor=4a9e8e)
-![Tailwind](https://img.shields.io/badge/Tailwind-0a0c08?style=flat-square&logo=tailwindcss&logoColor=4a9e8e)
+[![Next.js](https://img.shields.io/badge/Next.js-0a0c08?style=flat-square&logo=nextdotjs&logoColor=f0e8d5)](https://nextjs.org) 
+[![React](https://img.shields.io/badge/React-0a0c08?style=flat-square&logo=react&logoColor=4a9e8e)](https://react.dev) 
+[![TypeScript](https://img.shields.io/badge/TypeScript-0a0c08?style=flat-square&logo=typescript&logoColor=4a9e8e)](https://typescriptlang.org) 
+[![Tailwind](https://img.shields.io/badge/Tailwind-0a0c08?style=flat-square&logo=tailwindcss&logoColor=4a9e8e)](https://tailwindcss.com)
 
 **Tools & Design**
 
-![Git](https://img.shields.io/badge/Git-0a0c08?style=flat-square&logo=git&logoColor=8a8a72)
-![GitHub](https://img.shields.io/badge/GitHub-0a0c08?style=flat-square&logo=github&logoColor=8a8a72)
-![Figma](https://img.shields.io/badge/Figma-0a0c08?style=flat-square&logo=figma&logoColor=8a8a72)
-![Blender](https://img.shields.io/badge/Blender-0a0c08?style=flat-square&logo=blender&logoColor=8a8a72)
-![Photoshop](https://img.shields.io/badge/Photoshop-0a0c08?style=flat-square&logo=adobephotoshop&logoColor=8a8a72)
-![Substance Painter](https://img.shields.io/badge/Substance_Painter-0a0c08?style=flat-square&logo=adobe&logoColor=8a8a72)
-![ZBrush](https://img.shields.io/badge/ZBrush-0a0c08?style=flat-square&logoColor=8a8a72)
-![Maya](https://img.shields.io/badge/Maya-0a0c08?style=flat-square&logo=autodesk&logoColor=8a8a72)
+[![Git](https://img.shields.io/badge/Git-0a0c08?style=flat-square&logo=git&logoColor=8a8a72)](https://git-scm.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-0a0c08?style=flat-square&logo=github&logoColor=8a8a72)](https://github.com/rk00717) 
+[![Figma](https://img.shields.io/badge/Figma-0a0c08?style=flat-square&logo=figma&logoColor=8a8a72)](https://figma.com) 
+[![Blender](https://img.shields.io/badge/Blender-0a0c08?style=flat-square&logo=blender&logoColor=8a8a72)](https://blender.org) 
+[![Photoshop](https://img.shields.io/badge/Photoshop-0a0c08?style=flat-square&logo=adobephotoshop&logoColor=8a8a72)](https://adobe.com/products/photoshop) 
+[![Substance Painter](https://img.shields.io/badge/Substance_Painter-0a0c08?style=flat-square&logo=adobe&logoColor=8a8a72)](https://adobe.com/products/substance3d-painter) 
+[![ZBrush](https://img.shields.io/badge/ZBrush-0a0c08?style=flat-square&logoColor=8a8a72)](https://pixologic.com) 
+[![Maya](https://img.shields.io/badge/Maya-0a0c08?style=flat-square&logo=autodesk&logoColor=8a8a72)](https://autodesk.com/products/maya)
 
 ---
 
@@ -89,3 +104,5 @@ My goal is always to build systems that are as **robust as they are readable**. 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=c9933a&height=80&section=footer&text=%E2%97%8F%20ronik.dev&fontSize=12&fontFamily=courier&fontColor=f0e8d5&animation=fadeIn" width="100%"/>
 
 </div>
+
+---
